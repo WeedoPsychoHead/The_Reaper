@@ -1,3 +1,3 @@
-###***| The_Reaper v0.001 | ***
+### *** | The_Reaper v0.001 | ***
 
-#***Working in Progress***
+# *** Working in Progress***
